@@ -1,0 +1,7 @@
+{
+    "name": "Ionic to Heroku Deploy",
+    "description": "A simple Ionic demo app on Heroku",
+    "repository": "https://github.com/wlin57/add-friends.git",
+    "logo": "",
+    "keywords": ["ionic"]
+}
